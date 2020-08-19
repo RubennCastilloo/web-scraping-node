@@ -1,0 +1,23 @@
+{
+  "name": "web-scraping-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubennCastilloo/web-scraping-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubennCastilloo/web-scraping-node/issues"
+  },
+  "homepage": "https://github.com/RubennCastilloo/web-scraping-node#readme",
+  "dependencies": {
+    "puppeteer": "^3.3.0"
+  }
+}
